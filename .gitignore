@@ -1,0 +1,10 @@
+# 系统与编辑器
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*.icloud
+.obsidian/
+.vscode/
+.idea/
